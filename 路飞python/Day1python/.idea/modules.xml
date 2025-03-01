@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Day1python.iml" filepath="$PROJECT_DIR$/.idea/Day1python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Day2python/.idea/Day2python.iml" filepath="$PROJECT_DIR$/../Day2python/.idea/Day2python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Day3Alex老师的京牌摇号/.idea/Day3Alex老师的京牌摇号.iml" filepath="$PROJECT_DIR$/../Day3Alex老师的京牌摇号/.idea/Day3Alex老师的京牌摇号.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Day3python/.idea/Day3python.iml" filepath="$PROJECT_DIR$/../Day3python/.idea/Day3python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Day4顺丰快递分拣小程序/.idea/Day4顺丰快递分拣小程序.iml" filepath="$PROJECT_DIR$/../Day4顺丰快递分拣小程序/.idea/Day4顺丰快递分拣小程序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Day5python/.idea/Day5python.iml" filepath="$PROJECT_DIR$/../Day5python/.idea/Day5python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Day6.2/.idea/Day6.2.iml" filepath="$PROJECT_DIR$/../Day6.2/.idea/Day6.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Day6python/.idea/Day6python.iml" filepath="$PROJECT_DIR$/../Day6python/.idea/Day6python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonProject2/.idea/PythonProject2.iml" filepath="$PROJECT_DIR$/../PythonProject2/.idea/PythonProject2.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/code/.idea/code.iml" filepath="$USER_HOME$/Desktop/code/.idea/code.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Day1python/.idea/Day1python.iml" filepath="$PROJECT_DIR$/../Day1python/.idea/Day1python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Day3python/.idea/Day3python.iml" filepath="$PROJECT_DIR$/../Day3python/.idea/Day3python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Day5python.iml" filepath="$PROJECT_DIR$/.idea/Day5python.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/pythonProject/.idea/pythonProject.iml" filepath="$USER_HOME$/PycharmProjects/pythonProject/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../毕业论文-电商商品推荐系统/.idea/毕业论文-电商商品推荐系统.iml" filepath="$PROJECT_DIR$/../../毕业论文-电商商品推荐系统/.idea/毕业论文-电商商品推荐系统.iml" />
+    </modules>
+  </component>
+</project>
